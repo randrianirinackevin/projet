@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ligne initiale
 modifiaction sur branche3
+=======
+modification sur branche2
+>>>>>>> branche2
